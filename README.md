@@ -90,6 +90,6 @@ The main steps in this project include:
 
 **[Moyinoluwa Adisa]**  
 Aspiring Data Engineer | Python & SQL Enthusiast  
-GitHub: [@your-github-username](https://github.com/M-Deve)  
-LinkedIn: [your-linkedin-profile](https://linkedin.com/in/moyinoluwaadisa)  
+GitHub: (https://github.com/M-Deve)  
+LinkedIn: (https://linkedin.com/in/moyinoluwaadisa)  
 Email: adisamoyin@gmail.com
