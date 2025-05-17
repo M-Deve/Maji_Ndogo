@@ -86,9 +86,10 @@ The main steps in this project include:
 
 ---
 
-## 📁 Repository Structure
+## 👤 Author
 
-👤 Author
-[Moyinoluwa Adisa]
-Data Engineer | Python & SQL Enthusiast
-GitHub: [https://github.com/M-Deve] LinkedIn: [https://www.linkedin.com/in/moyinoluwaadisa] Email: adisamoyin@gmail.com
+**[Moyinoluwa Adisa]**  
+Aspiring Data Engineer | Python & SQL Enthusiast  
+GitHub: [@your-github-username](https://github.com/M-Deve)  
+LinkedIn: [your-linkedin-profile](https://linkedin.com/in/moyinoluwaadisa)  
+Email: adisamoyin@gmail.com
